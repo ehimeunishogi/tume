@@ -1,0 +1,32 @@
+<html>
+ <head>
+   <title>u8MD7ZLV</title>
+   <center><h1>まいにち詰将棋</h1><br><h7>解答は画像をクリック</h7>
+ </head>
+ <hr>
+ <body bgcolor="#ffa500">
+  <center>
+     <a href="tume61kai.png"><image src="tume61.png"></a>
+     <a href="tume62kai.png"><image src="tume62.png"></a>
+     <a href="tume63kai.png"><image src="tume63.png"></a>
+     <a href="tume64kai.png"><image src="tume64.png"></a>
+     <a href="tume65kai.png"><image src="tume65.png"></a>
+     <a href="tume66kai.png"><image src="tume66.png"></a>
+     <a href="tume67kai.png"><image src="tume67.png"></a>
+     <a href="tume68kai.png"><image src="tume68.png"></a>
+     <a href="tume69kai.png"><image src="tume69.png"></a>
+     <a href="tume70kai.png"><image src="tume70.png"></a>
+     <a href="tume71kai.png"><image src="tume71.png"></a>
+     <a href="tume72kai.png"><image src="tume72.png"></a>
+ </body>
+ <hr>
+ <footer>
+   <center>
+     <a href="index.html">1</a>
+    <a href="index2.html">2</a>
+    <a href="index3.html">3</a>
+    <a href="index4.html">4</a>
+    <a href="index5.html">5</a>
+    <a href="index6.html">6</a>
+ </footer>
+</html>
